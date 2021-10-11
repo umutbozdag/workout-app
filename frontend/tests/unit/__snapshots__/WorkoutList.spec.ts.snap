@@ -1,0 +1,479 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WorkoutList.vue Renders correctly with 'workouts' data 1`] = `
+<div
+  class="workout-list-container"
+>
+  <div
+    class="el-row is-justify-space-between is-align-middle el-row--flex"
+  >
+    <div
+      class="el-col el-col-24"
+    >
+      <h2>
+        Workouts
+      </h2>
+    </div>
+     
+    <div
+      class="el-col el-col-12 el-col-offset-12"
+    >
+      <button
+        class="el-button el-button--primary el-button--small is-plain"
+        type="button"
+      >
+        <!---->
+        <i
+          class="el-icon-plus"
+        />
+        <span>
+          Add workout
+        </span>
+      </button>
+    </div>
+  </div>
+   
+  <div
+    class="el-input el-input--prefix el-input--suffix"
+  >
+    <!---->
+    <input
+      autocomplete="off"
+      class="el-input__inner"
+      placeholder="Workout name"
+      type="text"
+    />
+    <span
+      class="el-input__prefix"
+    >
+      <i
+        class="el-input__icon el-icon-search"
+      />
+    </span>
+    <!---->
+    <!---->
+    <!---->
+  </div>
+   
+  <div
+    class="el-divider el-divider--horizontal"
+  >
+    <!---->
+  </div>
+   
+  <div
+    class="workout-list"
+  >
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+    <div
+      class="workout-list-item"
+    >
+      <div
+        class="workout-list-item__info"
+      >
+        <h3
+          class="workout-list-item__title"
+        >
+          Workout Title
+        </h3>
+         
+        <p
+          class="workout-list-item__desc"
+        >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+         
+        <p
+          class="workout-list-item__completed"
+        >
+          
+      Workout is completed
+    
+        </p>
+         
+        <div
+          class="workout-list-item__exercise-count"
+        >
+          <!---->
+           
+        10 Exercises
+       
+          <!---->
+        </div>
+      </div>
+       
+      <i
+        class="el-icon-right workout-list-item__icon"
+      />
+    </div>
+  </div>
+</div>
+`;

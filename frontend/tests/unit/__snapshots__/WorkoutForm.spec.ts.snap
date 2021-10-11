@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WorkoutForm.vue Renders correctly 1`] = `
+<form
+  class="el-form workout-form"
+>
+  <div
+    class="el-form-item workout-form__title is-required"
+  >
+    <label
+      class="el-form-item__label"
+      for="title"
+    >
+      Title
+    </label>
+    <div
+      class="el-form-item__content"
+    >
+      <div
+        class="workout-form__title-input el-input"
+      >
+        <!---->
+        <input
+          autocomplete="off"
+          class="el-input__inner"
+          type="text"
+        />
+        <!---->
+        <!---->
+        <!---->
+        <!---->
+      </div>
+      <transition-stub
+        name="el-zoom-in-top"
+      >
+        <!---->
+      </transition-stub>
+    </div>
+  </div>
+   
+  <div
+    class="el-form-item workout-form__desc is-required"
+  >
+    <label
+      class="el-form-item__label"
+      for="description"
+    >
+      Description
+    </label>
+    <div
+      class="el-form-item__content"
+    >
+      <div
+        class="workout-form__title-textarea el-textarea"
+      >
+        <textarea
+          autocomplete="off"
+          class="el-textarea__inner"
+          style="min-height: -4px;"
+        />
+        <!---->
+      </div>
+      <transition-stub
+        name="el-zoom-in-top"
+      >
+        <!---->
+      </transition-stub>
+    </div>
+  </div>
+   
+  <button
+    class="el-button el-button--primary"
+    type="button"
+  >
+    <!---->
+    <!---->
+    <span>
+      Add Workout
+    </span>
+  </button>
+</form>
+`;

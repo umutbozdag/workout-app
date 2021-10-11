@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WorkoutListItem.vue Renders correctly 1`] = `
+<div
+  class="workout-list-item"
+>
+  <div
+    class="workout-list-item__info"
+  >
+    <h3
+      class="workout-list-item__title"
+    >
+      Exercise Title
+    </h3>
+     
+    <p
+      class="workout-list-item__desc"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </p>
+     
+    <p
+      class="workout-list-item__completed"
+    >
+      
+      Workout is completed
+    
+    </p>
+     
+    <div
+      class="workout-list-item__exercise-count"
+    >
+      <!---->
+       
+        4 Exercises
+       
+      <!---->
+    </div>
+  </div>
+   
+  <i
+    class="el-icon-right workout-list-item__icon"
+  />
+</div>
+`;
